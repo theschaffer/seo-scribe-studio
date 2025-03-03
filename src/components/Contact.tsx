@@ -64,9 +64,9 @@ const Contact: React.FC = () => {
                 <div className="flex items-start gap-4">
                   <Mail className="text-primary mt-1" size={20} />
                   <div>
-                    <h4 className="font-medium">Email</h4>
+                    <h4 className="font-medium">E-mail</h4>
                     <a href="mailto:example@domain.com" className="text-foreground/80 hover:text-primary transition-colors">
-                      example@domain.com
+                      rubisseschaffer@gmail.com
                     </a>
                   </div>
                 </div>
@@ -76,7 +76,7 @@ const Contact: React.FC = () => {
                   <div>
                     <h4 className="font-medium">Phone</h4>
                     <a href="tel:+1234567890" className="text-foreground/80 hover:text-primary transition-colors">
-                      +1 (234) 567-890
+                      +261343053820
                     </a>
                   </div>
                 </div>
@@ -85,7 +85,7 @@ const Contact: React.FC = () => {
                   <h4 className="font-medium mb-3">Connect with me</h4>
                   <div className="flex items-center gap-4">
                     <a
-                      href="https://github.com"
+                      href="https://github.com/theschaffer/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-10 h-10 flex items-center justify-center rounded-full bg-secondary hover:bg-primary hover:text-white transition-colors"
@@ -94,7 +94,7 @@ const Contact: React.FC = () => {
                       <Github size={20} />
                     </a>
                     <a
-                      href="https://linkedin.com"
+                      href="https://www.linkedin.com/in/rubisse-schaffer-a7232780/"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="w-10 h-10 flex items-center justify-center rounded-full bg-secondary hover:bg-primary hover:text-white transition-colors"
