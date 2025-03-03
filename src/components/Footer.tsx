@@ -16,7 +16,7 @@ const Footer: React.FC = () => {
         <div className="flex flex-col md:flex-row justify-between items-center gap-6">
           <div>
             <p className="text-foreground/70 text-sm">
-              © {new Date().getFullYear()} Your Name. All rights reserved.
+              © {new Date().getFullYear()} Rubisse Schaffer. All rights reserved.
             </p>
           </div>
           
